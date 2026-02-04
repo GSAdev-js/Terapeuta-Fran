@@ -1,0 +1,144 @@
+<section class="section" id="temas">
+        <div class="container">
+          <div class="section-header reveal">
+            <h2>Temas em foco</h2>
+            <p>
+              As demandas são avaliadas caso a caso. Estes são temas comuns na
+              Terapia.
+            </p>
+          </div>
+                                        <div class="grid reviews-grid">
+            <article class="card review-card reveal"><div class="stars">Tema</div><h3>Ansiedade</h3></article>
+            <article class="card review-card reveal"><div class="stars">Tema</div><h3>Depressão</h3></article>
+            <article class="card review-card reveal"><div class="stars">Tema</div><h3>Fobias</h3></article>
+            <article class="card review-card reveal"><div class="stars">Tema</div><h3>Medos</h3></article>
+            <article class="card review-card reveal"><div class="stars">Tema</div><h3>Traumas</h3></article>
+            <article class="card review-card reveal"><div class="stars">Tema</div><h3>Insônia</h3></article>
+            <article class="card review-card reveal"><div class="stars">Tema</div><h3>Síndrome do Pânico</h3></article>
+            <article class="card review-card reveal"><div class="stars">Tema</div><h3>Tricotilomania</h3></article>
+            <article class="card review-card reveal"><div class="stars">Tema</div><h3>Mitomania</h3></article>
+            <article class="card review-card reveal"><div class="stars">Tema</div><h3>Cleptomania</h3></article>
+          </div>
+              <h3>Ansiedade e estresse</h3>
+              <p>Estratégias para lidar com preocupações e autocobrança.</p>
+            </article>
+            <article class="card review-card reveal">
+              <div class="stars">Tema</div>
+              <h3>Autoestima</h3>
+              <p>Fortalecer a relação consigo e reconhecer suas potências.</p>
+            </article>
+            <article class="card review-card reveal">
+              <div class="stars">Tema</div>
+              <h3>Relacionamentos</h3>
+              <p>Diálogo, limites saudáveis e construção de vínculos.</p>
+            </article>
+            <article class="card review-card reveal">
+              <div class="stars">Tema</div>
+              <h3>Transições de vida</h3>
+              <p>Mudanças profissionais, pessoais e novas fases.</p>
+            </article>
+            <article class="card review-card reveal">
+              <div class="stars">Tema</div>
+              <h3>Autoconhecimento</h3>
+              <p>Compreender padrões e ampliar consciência emocional.</p>
+            </article>
+            <article class="card review-card reveal">
+              <div class="stars">Tema</div>
+              <h3>Organização emocional</h3>
+              <p>Ferramentas para lidar com emoções no dia a dia.</p>
+            </article>
+          </div>
+              <h3>Ansiedade</h3>
+              <p>Abordagem focada em reduzir sintomas e promover equilíbrio.</p>
+            </article>
+            <article class="card review-card reveal">
+              <div class="stars">Tema</div>
+              <h3>Depressão</h3>
+              <p>Trabalho terapêutico para restaurar bem-estar emocional.</p>
+            </article>
+            <article class="card review-card reveal">
+              <div class="stars">Tema</div>
+              <h3>Fobias</h3>
+              <p>Reprocessamento de medos específicos e bloqueios.</p>
+            </article>
+            <article class="card review-card reveal">
+              <div class="stars">Tema</div>
+              <h3>Medos</h3>
+              <p>Fortalecimento de recursos internos para lidar com inseguranças.</p>
+            </article>
+            <article class="card review-card reveal">
+              <div class="stars">Tema</div>
+              <h3>Traumas</h3>
+              <p>Reprocessamento de experiências que impactam o presente.</p>
+            </article>
+            <article class="card review-card reveal">
+              <div class="stars">Tema</div>
+              <h3>Insônia</h3>
+              <p>Intervenções para melhorar sono e regulação emocional.</p>
+            </article>
+            <article class="card review-card reveal">
+              <div class="stars">Tema</div>
+              <h3>Síndrome do Pânico</h3>
+              <p>Redução de crises e manejo de gatilhos.</p>
+            </article>
+            <article class="card review-card reveal">
+              <div class="stars">Tema</div>
+              <h3>Tricotilomania</h3>
+              <p>Compreensão de padrões e estratégias de regulação.</p>
+            </article>
+            <article class="card review-card reveal">
+              <div class="stars">Tema</div>
+              <h3>Mitomania</h3>
+              <p>Trabalho terapêutico com foco em consciência e autocontrole.</p>
+            </article>
+            <article class="card review-card reveal">
+              <div class="stars">Tema</div>
+              <h3>Cleptomania</h3>
+              <p>Identificação de causas e construção de alternativas saudáveis.</p>
+            </article>
+          </div>
+              <h3>Ansiedade e estresse</h3>
+              <p>Estratégias para lidar com preocupações e autocobrança.</p>
+            </article>
+            <article class="card review-card reveal">
+              <div class="stars">Tema</div>
+              <h3>Autoestima</h3>
+              <p>Fortalecer a relação consigo e reconhecer suas potências.</p>
+            </article>
+            <article class="card review-card reveal">
+              <div class="stars">Tema</div>
+              <h3>Relacionamentos</h3>
+              <p>Diálogo, limites saudáveis e construção de vínculos.</p>
+            </article>
+            <article class="card review-card reveal">
+              <div class="stars">Tema</div>
+              <h3>Transições de vida</h3>
+              <p>Mudanças profissionais, pessoais e novas fases.</p>
+            </article>
+            <article class="card review-card reveal">
+              <div class="stars">Tema</div>
+              <h3>Autoconhecimento</h3>
+              <p>Compreender padrões e ampliar consciência emocional.</p>
+            </article>
+            <article class="card review-card reveal">
+              <div class="stars">Tema</div>
+              <h3>Organização emocional</h3>
+              <p>Ferramentas para lidar com emoções no dia a dia.</p>
+            </article>
+          </div>
+          <div class="grid review-imgs">
+            <div class="mini-card reveal">
+              <h4>Sigilo absoluto</h4>
+              <p>Confidencialidade em todas as etapas do processo.</p>
+            </div>
+            <div class="mini-card reveal">
+              <h4>Ritmo respeitado</h4>
+              <p>O processo terapêutico acompanha o seu tempo.</p>
+            </div>
+            <div class="mini-card reveal">
+              <h4>Cuidado contínuo</h4>
+              <p>Consistência para gerar avanços reais e sustentáveis.</p>
+            </div>
+          </div>
+        </div>
+      </section>
